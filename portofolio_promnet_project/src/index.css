@@ -1,9 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-  @import url('https://fonts.googleapis.com/css2?family=Laila:wght@300;400;600;700&family=Lalezar&display=swap');
-
-html {
-  @apply text-neutral-500 font-laila bg-[#fbfbfb];
-}
